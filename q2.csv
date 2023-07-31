@@ -1,0 +1,39 @@
+,GenreId,Name,media,count,sum
+0,1,Rock,MPEG audio file,1211,1211
+1,7,Latin,MPEG audio file,578,4046
+2,3,Metal,MPEG audio file,374,1122
+3,4,Alternative & Punk,MPEG audio file,332,1328
+4,2,Jazz,MPEG audio file,127,254
+5,19,TV Shows,Protected MPEG-4 video file,93,1767
+6,1,Rock,Protected AAC audio file,84,84
+7,6,Blues,MPEG audio file,81,486
+8,24,Classical,Protected AAC audio file,67,1608
+9,21,Drama,Protected MPEG-4 video file,64,1344
+10,8,Reggae,MPEG audio file,58,464
+11,14,R&B/Soul,MPEG audio file,49,686
+12,10,Soundtrack,MPEG audio file,42,420
+13,23,Alternative,Protected AAC audio file,38,874
+14,17,Hip Hop/Rap,MPEG audio file,35,595
+15,9,Pop,Protected AAC audio file,34,306
+16,15,Electronica/Dance,MPEG audio file,28,420
+17,13,Heavy Metal,MPEG audio file,28,364
+18,20,Sci Fi & Fantasy,Protected MPEG-4 video file,26,520
+19,16,World,MPEG audio file,26,416
+20,12,Easy Listening,MPEG audio file,24,288
+21,22,Comedy,Protected MPEG-4 video file,17,374
+22,11,Bossa Nova,MPEG audio file,15,165
+23,9,Pop,MPEG audio file,14,126
+24,18,Science Fiction,Protected MPEG-4 video file,13,234
+25,5,Rock And Roll,MPEG audio file,12,60
+26,14,R&B/Soul,Protected AAC audio file,12,168
+27,24,Classical,Purchased AAC audio file,6,144
+28,2,Jazz,AAC audio file,3,6
+29,15,Electronica/Dance,AAC audio file,2,30
+30,16,World,AAC audio file,2,32
+31,1,Rock,AAC audio file,2,2
+32,25,Opera,Protected AAC audio file,1,25
+33,7,Latin,AAC audio file,1,7
+34,24,Classical,AAC audio file,1,24
+35,10,Soundtrack,Protected AAC audio file,1,10
+36,23,Alternative,Protected MPEG-4 video file,1,23
+37,23,Alternative,Purchased AAC audio file,1,23

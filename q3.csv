@@ -1,0 +1,234 @@
+,ArtistId,artist,genre,count,sum
+0,22,Led Zeppelin,Rock,114,2508
+1,50,Metallica,Metal,112,5600
+2,150,U2,Rock,112,16800
+3,90,Iron Maiden,Metal,95,8550
+4,58,Deep Purple,Rock,92,5336
+5,90,Iron Maiden,Rock,81,7290
+6,118,Pearl Jam,Rock,54,6372
+7,152,Van Halen,Rock,52,7904
+8,113,Os Paralamas Do Sucesso,Latin,49,5537
+9,149,Lost,TV Shows,48,7152
+10,51,Queen,Rock,45,2295
+11,149,Lost,Drama,44,6556
+12,142,The Rolling Stones,Rock,41,5822
+13,76,Creedence Clearwater Revival,Rock,40,3040
+14,146,Titãs,Alternative & Punk,38,5548
+15,82,Faith No More,Alternative & Punk,37,3034
+16,68,Miles Davis,Jazz,37,2516
+17,156,The Office,TV Shows,36,5616
+18,18,Chico Science & Nação Zumbi,Latin,36,648
+19,52,Kiss,Rock,35,1820
+20,17,Chico Buarque,Latin,34,578
+21,131,Smashing Pumpkins,Alternative & Punk,34,4454
+22,54,Green Day,Alternative & Punk,34,1836
+23,84,Foo Fighters,Rock,33,2772
+24,81,Eric Clapton,Blues,32,2592
+25,19,Cidade Negra,Reggae,31,589
+26,99,Legião Urbana,Latin,31,3069
+27,127,Red Hot Chili Peppers,Rock,31,3937
+28,77,Cássia Eller,Latin,30,2310
+29,100,Lenny Kravitz,Rock,30,3000
+30,139,The Cult,Rock,30,4170
+31,145,Tim Maia,Latin,30,4350
+32,110,Nirvana,Rock,29,3190
+33,88,Guns N' Roses,Rock,28,2464
+34,101,Lulu Santos,Latin,28,2828
+35,90,Iron Maiden,Heavy Metal,28,2520
+36,21,Various Artists,Latin,28,588
+37,124,R.E.M.,Alternative & Punk,27,3348
+38,59,Santana,Rock,27,1593
+39,80,Djavan,Latin,26,2080
+40,42,Milton Nascimento,Latin,26,1092
+41,143,The Tea Party,Alternative & Punk,26,3718
+42,158,Battlestar Galactica (Classic),Sci Fi & Fantasy,24,3792
+43,85,Frank Sinatra,Easy Listening,24,2040
+44,130,Skank,Rock,23,2990
+45,150,U2,Pop,23,3450
+46,69,Gene Krupa,Jazz,22,1518
+47,16,Caetano Veloso,Latin,21,336
+48,53,Spyro Gyra,Jazz,21,1113
+49,91,James Brown,R&B/Soul,20,1820
+50,148,Heroes,Drama,20,2960
+51,144,The Who,Rock,20,2880
+52,180,House Of Pain,Hip Hop/Rap,19,3420
+53,137,The Black Crowes,Blues,19,2603
+54,155,Zeca Pagodinho,Latin,19,2945
+55,11,Black Label Society,Metal,18,198
+56,104,Marvin Gaye,R&B/Soul,18,1872
+57,138,The Clash,Alternative & Punk,18,2484
+58,103,Marisa Monte,Latin,18,1854
+59,114,Ozzy Osbourne,Rock,18,2052
+60,1,AC/DC,Rock,18,18
+61,36,O Rappa,Electronica/Dance,17,612
+62,13,Body Count,Alternative & Punk,17,221
+63,12,Black Sabbath,Metal,17,204
+64,6,Antônio Carlos Jobim,Latin,17,102
+65,109,Mötley Crüe,Metal,17,1853
+66,127,Red Hot Chili Peppers,Alternative & Punk,17,2159
+67,24,Marcos Valle,Latin,17,408
+68,132,Soundgarden,Rock,17,2244
+69,156,The Office,Comedy,17,2652
+70,94,Jimi Hendrix,Rock,17,1598
+71,121,Planet Hemp,Hip Hop/Rap,16,1936
+72,98,Judas Priest,Metal,16,1568
+73,78,Def Leppard,Rock,16,1248
+74,81,Eric Clapton,Latin,16,1296
+75,86,Funk Como Le Gusta,Latin,16,1376
+76,111,O Terço,Rock,15,1665
+77,3,Aerosmith,Rock,15,45
+78,72,Vinícius De Moraes,Latin,15,1080
+79,106,Motörhead,Metal,15,1590
+80,70,Toquinho & Vinícius,Bossa Nova,15,1050
+81,82,Faith No More,Rock,15,1230
+82,27,Gilberto Gil,Latin,15,405
+83,124,R.E.M.,Rock,14,1736
+84,112,Olodum,Latin,14,1568
+85,100,Lenny Kravitz,Metal,14,1400
+86,126,Raul Seixas,Rock,14,1764
+87,27,Gilberto Gil,Soundtrack,14,378
+88,88,Guns N' Roses,Metal,14,1232
+89,37,Ed Motta,Latin,14,518
+90,21,Various Artists,Pop,14,294
+91,151,UB40,Reggae,14,2114
+92,21,Various Artists,Soundtrack,14,294
+93,83,Falamansa,Latin,14,1162
+94,8,Audioslave,Rock,14,112
+95,41,Elis Regina,Latin,14,574
+96,114,Ozzy Osbourne,Metal,14,1596
+97,46,Jorge Ben,Latin,14,644
+98,57,Os Mutantes,Alternative & Punk,14,798
+99,141,The Police,Rock,14,1974
+100,116,Passengers,Soundtrack,14,1624
+101,97,João Suplicy,World,14,1358
+102,205,Chris Cornell,Alternative,14,2870
+103,56,Gonzaguinha,Latin,14,784
+104,6,Antônio Carlos Jobim,Jazz,14,84
+105,8,Audioslave,Alternative,14,112
+106,128,Rush,Rock,14,1792
+107,147,Battlestar Galactica,Science Fiction,13,1911
+108,100,Lenny Kravitz,Reggae,13,1300
+109,118,Pearl Jam,Alternative & Punk,13,1534
+110,4,Alanis Morissette,Rock,13,52
+111,93,JET,Alternative & Punk,13,1209
+112,89,Incognito,Jazz,13,1157
+113,153,Velvet Revolver,Rock,13,1989
+114,5,Alice In Chains,Rock,12,60
+115,55,David Coverdale,Rock,12,660
+116,9,BackBeat,Rock And Roll,12,108
+117,252,Amy Winehouse,R&B/Soul,12,3024
+118,96,Jota Quest,Latin,12,1152
+119,87,Godsmack,Metal,12,1044
+120,179,Scorpions,Rock,12,2148
+121,8,Audioslave,Alternative & Punk,12,96
+122,134,Stone Temple Pilots,Rock,12,1608
+123,108,Mônica Marianno,World,12,1296
+124,115,Page & Plant,Rock,12,1380
+125,92,Jamiroquai,Electronica/Dance,11,1012
+126,252,Amy Winehouse,Pop,11,2772
+127,140,The Doors,Rock,11,1540
+128,15,Buddy Guy,Blues,11,165
+129,84,Foo Fighters,Alternative & Punk,11,924
+130,122,R.E.M. Feat. Kate Pearson,Alternative & Punk,11,1342
+131,135,System Of A Down,Metal,11,1485
+132,14,Bruce Dickinson,Metal,11,154
+133,92,Jamiroquai,R&B/Soul,11,1012
+134,125,Raimundos,Alternative & Punk,10,1250
+135,95,Joe Satriani,Rock,10,950
+136,92,Jamiroquai,Rock,10,920
+137,105,Men At Work,Rock,10,1050
+138,133,Stevie Ray Vaughan & Double Trouble,Blues,10,1330
+139,102,Marillion,Rock,10,1020
+140,117,Paul D'Ianno,Rock,10,1170
+141,20,Cláudio Zoli,Latin,10,200
+142,204,Temple of the Dog,Alternative,10,2040
+143,23,Frank Zappa & Captain Beefheart,Rock,9,207
+144,120,Pink Floyd,Rock,9,1080
+145,90,Iron Maiden,Blues,9,810
+146,79,Dennis Chambers,Jazz,9,711
+147,10,Billy Cobham,Jazz,8,80
+148,7,Apocalyptica,Metal,8,56
+149,136,"Terry Bozzio, Tony Levin & Steve Stevens",Rock,7,952
+150,147,Battlestar Galactica,TV Shows,5,735
+151,2,Accept,Rock,4,8
+152,148,Heroes,TV Shows,3,444
+153,248,Berliner Philharmoniker & Herbert Von Karajan,Classical,3,744
+154,27,Gilberto Gil,Jazz,3,81
+155,226,Eugene Ormandy,Classical,3,678
+156,214,Academy of St. Martin in the Fields & Sir Neville Marriner,Classical,2,428
+157,147,Battlestar Galactica,Sci Fi & Fantasy,2,294
+158,247,The King's Singers,Classical,2,494
+159,208,English Concert & Trevor Pinnock,Classical,2,416
+160,245,Michael Tilson Thomas & San Francisco Symphony,Classical,2,490
+161,197,Aisha Duo,Jazz,2,394
+162,198,Habib Koité and Bamada,World,2,396
+163,199,Karsh Kale,Electronica/Dance,2,398
+164,200,The Posies,Rock,2,400
+165,220,"Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti",Classical,1,220
+166,210,"Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer",Classical,1,210
+167,241,"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos",Classical,1,241
+168,223,London Symphony Orchestra & Sir Charles Mackerras,Classical,1,223
+169,206,Alberto Turco & Nova Schola Gregoriana,Classical,1,206
+170,235,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",Classical,1,235
+171,202,Aaron Goldberg,Jazz,1,202
+172,209,"Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker",Classical,1,209
+173,224,Barry Wordsworth & BBC Concert Orchestra,Classical,1,224
+174,246,"Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker",Classical,1,246
+175,225,"Herbert Von Karajan, Mirella Freni & Wiener Philharmoniker",Classical,1,225
+176,221,Sir Georg Solti & Wiener Philharmoniker,Classical,1,221
+177,254,Otto Klemperer & Philharmonia Orchestra,Classical,1,254
+178,218,Orchestre Révolutionnaire et Romantique & John Eliot Gardiner,Classical,1,218
+179,230,Aaron Copland & London Symphony Orchestra,Classical,1,230
+180,274,Nash Ensemble,Classical,1,274
+181,232,Sergei Prokofiev & Yuri Temirkanov,Classical,1,232
+182,275,Philip Glass Ensemble,Soundtrack,1,275
+183,215,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,Classical,1,215
+184,229,Boston Symphony Orchestra & Seiji Ozawa,Classical,1,229
+185,258,Les Arts Florissants & William Christie,Classical,1,258
+186,231,Ton Koopman,Classical,1,231
+187,250,Christopher O'Riley,Classical,1,250
+188,201,Luciana Souza/Romero Lubambo,Latin,1,201
+189,268,Itzhak Perlman,Classical,1,268
+190,249,"Sir Georg Solti, Sumi Jo & Wiener Philharmoniker",Opera,1,249
+191,222,"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair",Classical,1,222
+192,213,Scholars Baroque Ensemble,Classical,1,213
+193,203,Nicolaus Esterhazy Sinfonia,Classical,1,203
+194,271,"Mela Tenenbaum, Pro Musica Prague & Richard Kapp",Classical,1,271
+195,196,Cake,Alternative,1,196
+196,237,Berliner Philharmoniker & Hans Rosbaud,Classical,1,237
+197,263,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",Classical,1,263
+198,238,Maurizio Pollini,Classical,1,238
+199,253,Calexico,Alternative,1,253
+200,217,Royal Philharmonic Orchestra & Sir Thomas Beecham,Classical,1,217
+201,267,Göteborgs Symfoniker & Neeme Järvi,Classical,1,267
+202,236,James Levine,Classical,1,236
+203,212,Yo-Yo Ma,Classical,1,212
+204,157,Dread Zeppelin,Rock,1,157
+205,228,Leonard Bernstein & New York Philharmonic,Classical,1,228
+206,233,Chicago Symphony Orchestra & Fritz Reiner,Classical,1,233
+207,216,"Berliner Philharmoniker, Claudio Abbado & Sabine Meyer",Classical,1,216
+208,265,Julian Bream,Classical,1,265
+209,260,Adrian Leaper & Doreen de Feis,Classical,1,260
+210,244,Choir Of Westminster Abbey & Simon Preston,Classical,1,244
+211,159,Aquaman,TV Shows,1,159
+212,211,Wilhelm Kempff,Classical,1,211
+213,270,Gerald Moore,Classical,1,270
+214,259,The 12 Cellists of The Berlin Philharmonic,Classical,1,259
+215,273,"C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu",Classical,1,273
+216,261,"Roger Norrington, London Classical Players",Classical,1,261
+217,272,Emerson String Quartet,Classical,1,272
+218,251,Fretwork,Classical,1,251
+219,264,Kent Nagano and Orchestre de l'Opéra de Lyon,Classical,1,264
+220,207,"Richard Marlow & The Choir of Trinity College, Cambridge",Classical,1,207
+221,257,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",Classical,1,257
+222,255,Yehudi Menuhin,Classical,1,255
+223,240,Gustav Mahler,Classical,1,240
+224,242,Edo de Waart & San Francisco Symphony,Classical,1,242
+225,256,Philharmonia Orchestra & Sir Neville Marriner,Classical,1,256
+226,269,Michele Campanella,Classical,1,269
+227,227,Luciano Pavarotti,Classical,1,227
+228,262,Charles Dutoit & L'Orchestre Symphonique de Montréal,Classical,1,262
+229,234,Orchestra of The Age of Enlightenment,Classical,1,234
+230,219,"Britten Sinfonia, Ivor Bolton & Lesley Garrett",Classical,1,219
+231,243,Antal Doráti & London Symphony Orchestra,Classical,1,243
+232,266,Martin Roscoe,Classical,1,266
